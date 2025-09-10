@@ -25,6 +25,9 @@ dashboard_files = [
     "Dashboard_4.png"
 ]
 
+# Link Tableau Public (satu link untuk semua dashboard)
+tableau_link = "https://public.tableau.com/shared/CNPHTQ4QX?:display_count=n&:origin=viz_share_link"
+
 # ----------------------------
 # Tampilkan dashboard
 # ----------------------------
@@ -37,3 +40,8 @@ for i, file_name in enumerate(dashboard_files, start=1):
         st.markdown("---")
     except FileNotFoundError:
         st.error(f"❌ File {file_name} tidak ditemukan di folder {img_folder}.")
+
+# ----------------------------
+# Tambahkan link Tableau sekali di bawah
+# ----------------------------
+st.markdown(f"🔗 **Lihat versi interaktif di Tableau Public:** [Klik di sini]({tableau_link})")

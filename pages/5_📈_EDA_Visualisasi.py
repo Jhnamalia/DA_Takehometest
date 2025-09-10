@@ -137,11 +137,10 @@ with tab1:
         x='Churn Reason',
         y='Count',
         title='Top 10 Alasan Pelanggan Churn',
-        color='Count',
-        color_continuous_scale=churn_colors,
         text="Count"  # label nilai
         )
-
+    
+    fig_reason.update_traces(marker_color="#F2B9BE")
     fig_reason.update_traces(textposition='outside', textfont=dict(size=12))  # posisi & ukuran font
     fig_reason.update_layout(xaxis_tickangle=-45)
     st.plotly_chart(fig_reason, use_container_width=True)
