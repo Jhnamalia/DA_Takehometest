@@ -26,7 +26,7 @@ dashboard_files = [
 ]
 
 # Link Tableau Public (satu link untuk semua dashboard)
-tableau_link = "https://public.tableau.com/shared/CNPHTQ4QX?:display_count=n&:origin=viz_share_link"
+tableau_link = "https://public.tableau.com/views/CustomerInsightsBusinessPerformanceDashboard/CustomerInsightsBusinessPerformanceDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"
 
 # ----------------------------
 # Tampilkan dashboard
