@@ -40,5 +40,5 @@ st.subheader("🔗 Project Resources")
 st.markdown("""
 - 📄 **Project Slide Deck**: [Stop the Churn: Telco Customer Insights & Strategy](https://drive.google.com/file/d/1du9GVJRsDiR5GZ8ar45rm9Q_4EN80YAJ/view?usp=drive_link)  
 - 📊 **Dataset Source**: [Why Do Customers Leave? Telco Customer Churn Dataset - Kaggle](https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners?select=a_IBM+Telco+Customers+Churn+Datasets.xlsx)  
-- 📈 **Tableau Dashboard**: [Customer Insights & Business Performance Dashboard](hhttps://public.tableau.com/shared/CNPHTQ4QX?:display_count=n&:origin=viz_share_link)  
+- 📈 **Tableau Dashboard**: [Customer Insights & Business Performance Dashboard](https://public.tableau.com/app/profile/jihan.amalia.laelani/viz/shared/CNPHTQ4QX)  
 """)
