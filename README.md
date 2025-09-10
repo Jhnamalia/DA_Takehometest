@@ -13,9 +13,10 @@ Ukuran Data: 7.000+ data pelanggan dengan informasi demografi, layanan, kontrak,
 ---
 
 ## 📎 Link Penting
-📂 **Project Data Analyst**: [Google Drive](https://drive.google.com/drive/folders/1gGVhVZl_X2DBV3MuxojUuVSAV3GeivAh?usp=drive_link)  
+📄**Dataset**: [Telco Customer Churn Analysis]([https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners?select=a_IBM+Telco+Customers+Churn+Datasets.xlsx])
+📂 **Project Data Analyst**: [Telco Customer Churn Analysis]([https://drive.google.com/file/d/1du9GVJRsDiR5GZ8ar45rm9Q_4EN80YAJ/view?usp=drive_link])
 🔗 **Streamlit Live App**: [projectdatelcocustomer.streamlit.app](https://projectdatelcocustomer.streamlit.app/)  
-📊 **Tableau Dashboard**: [Google Drive](https://drive.google.com/file/d/1USv6-0Wts2hkbDUo_nwoKMgY9dJAkTZu/view?usp=drive_link)  
+📊 **Tableau Dashboard**: [Customer Insights & Business Performance Dashboard]([https://public.tableau.com/views/CustomerInsightsBusinessPerformanceDashboard/CustomerInsightsBusinessPerformanceDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link])
 
 ---
 
